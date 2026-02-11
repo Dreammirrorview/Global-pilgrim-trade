@@ -1,0 +1,7 @@
+total 96
+drwxr-xr-x 2 root root  4096 Feb 11 12:26 .
+drwxr-xr-x 5 user user  4096 Feb 11 12:26 ..
+-rw-r--r-- 1 root root  8629 Feb 11 12:26 README.md
+-rw-r--r-- 1 root root 35115 Feb 11 12:23 index.html
+-rw-r--r-- 1 root root 24966 Feb 11 12:24 script.js
+-rw-r--r-- 1 root root 10844 Feb 11 12:20 style.css
